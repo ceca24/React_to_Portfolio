@@ -48,3 +48,13 @@ export const projects = [
       link: "https://ceca24.github.io/knowledge-check/",
     },
     ];
+
+export const resume = [
+    {
+        title: "Resume",
+        subtitle: "Resume",
+        description:
+            "Resume is currently under construction. Please check back later.",
+        image: "./images/underconstruction.png",
+    },
+];
