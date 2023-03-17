@@ -1,6 +1,6 @@
 import { ChipIcon } from '@heroicons/react/solid';
 import React from 'react';
-//import { Resume } from '../data';
+// import { Resume } from '../data';
 
 export default function Resume() {
 
