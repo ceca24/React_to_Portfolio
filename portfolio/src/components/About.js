@@ -11,20 +11,9 @@ export default function About() {
             <br className="hidden lg:inline-block" />I'm always fascinated with learning new things.
           </h1>
           <p className="mb-8 leading-relaxed">
-          <br>
-                ✨ I am a Texas native that has lived up and down the west coast for 4.5 years.
-            </br>
-            <br>
-                ✨ Was enrolled in the University of Texas Coding Bootcamp to expand my knowledge in computer languages.
-            </br>
-            
-            <br>
-                ✨ I enjoy being challenged and working with diverse teams to solve any difficult problems with creative solutions.
-            </br>
-
-            <br>
-                ✨ Hobbies currently include collecting stationery items, learning to draw, nature/urban walks, pin collecting, trying new cuisine (eating and cooking), and taking trips (either by road or by air) to anywhere.
-            </br>
+          I am a Texas native that has lived up and down the west coast for 4.5 years. Was enrolled in the University of Texas Coding Bootcamp to expand my knowledge in computer languages. 
+          I enjoy being challenged and working with diverse teams to solve any difficult problems with creative solutions.
+          Hobbies currently include collecting stationery items, learning to draw, nature/urban walks, pin collecting, trying new cuisine (eating and cooking), and taking trips (either by road or by air) to anywhere
           </p>
           <div className="flex justify-center">
             <a
@@ -43,7 +32,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./images/cesarselfie.png"
+            src="./images/DrawnMe.jpg"
           />
         </div>
       </div>
